@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: bathmaraj/chujijiimage:latest
+          image: bathmaraj/chujijiimage2:latest
           imagePullPolicy: Always
